@@ -13,8 +13,8 @@ Versão 2.0
 | Atividades            | Responsáveis | Data       | Observações                      |
 |-----------------------|--------------|------------|----------------------------------|
 | Adequação Template    | Camargo      | 03/09/2025 | Ajustes e Inserção do Contexto   |
-| Entrega 1    | Equipe CamarVolt      | 03/09/2025 | Ajustes e Inserção do Contexto   |
-| Entrega 2    | Equipe CamarVolt      | 03/09/2025 | Ajustes e Inserção do Contexto   |
+| Entrega 1    | Equipe CamarVolt      | 10/09/2025 | Seção 1   |
+| Entrega 2    | Equipe CamarVolt      | 24/09/2025 | Seções 2, 3 e 4   |
 
 ---
 
