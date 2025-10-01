@@ -106,6 +106,9 @@ A comunicação entre aparelho e servidor deve ser criptografada.
 O servidor deve tratar múltiplos dispositivos simultaneamente, sem perda ou desintegração de dados.
 Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas energia fornecida pela tomada (no caso do aparelho).
 
+## Diagrama de Caso de Uso
+<img width="713" height="398" alt="image" src="https://github.com/user-attachments/assets/116a8f1d-dc50-41ac-923b-0eb87a112de9" />
+
 ---
 
 ## 4. Requisitos do Produto/Protótipo
