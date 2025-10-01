@@ -36,22 +36,36 @@ Versão 2.0
 ## 1. Introdução
 
 ### 1.1 Objetivo deste documento
-<Neste documento é apresentado uma especificação de uma aplicação IoT/IIoT com as seguintes camadas/aspectos.....>
+Este documento tem como objetivo apresentar a especificação e detalhamento do protótipo CamarVolt | Tomada medidora de gastos, um projeto de IOT. Serão descritos seus objetivos, escopo, funcionalidades e requisitos principais, de forma a orientar o desenvolvimento do dispositivo e sua integração com as camadas de software e hardware necessárias. A documentação visa servir como guia de referência tanto para a equipe de desenvolvimento quanto para validação acadêmica e técnica do projeto.
 
 ### 1.2 Escopo do produto
 #### 1.2.1 Nome do produto/protótipo e de seus componentes principais
-<apresentar o nome do produto (nome da aplicação) e seus módulos (se preferir utilize itens)>
+O produto é criado pela "Equipe CamarVolt" e se chama "Tomada medidora de gastos". Seus principais componentes são:
+- Adaptador de tomada inteligente: Dispositivo físico que mede parâmetros elétricos relacionados ao consumo.
+- Módulo de conectividade IoT: Microcontrolador responsável pela coleta, processamento inicial e envio dos dados para o servidor.
+- Servidor: Software responsável por receber, armazenar e processar definitivamente os dados.
+- Dashboard: Interface gráfica na web para visualização do consumo, relatórios e alertas.
 
 #### 1.2.2 Missão do produto/protótipo
-<A missão do produto a ser desenvolvido é ...... promover, facilitar, permitir, capturar, .... >
+A missão do CamarVolt é proporcionar monitoramento acessível, confiável e em tempo real do consumo de energia elétrica em residências, auxiliando o usuário a compreender seus padrões de uso, identificar desperdícios e reduzir gastos. O protótipo busca facilitar o controle de consumo por meio de uma interface web fácil de utilizar, permitindo ao usuário maior conhecimento sobre seus gastos, possibilitando-o a tomar decisões mais conscientes sobre sua utilização de energia.
 
 ### 1.3 Visão geral deste documento
-<Este documento está estruturado da seguinte maneira: na Seção 2 tem-se uma breve descrição das funções do aplicativo (produto); na Seção 3 encontra-se a descrição dos requisitos específicos, o modelo casos de uso e o modelo de classes. >
+- Seção 2: apresenta-se a descrição geral do protótipo e de suas funcionalidades;
+
+- Seção 3: é discutido o contexto do produto, incluindo ambiente de uso, público-alvo e restrições;
+
+- Seção 4: encontram-se os requisitos funcionais, não funcionais, de hardware, software e plataformas;
+
+- Seção 5: são descritos os artefatos do projeto, como diagramas e modelos;
+
+- Seção 6: cada integrante da equipe apresenta suas considerações finais;
+
+- Seção 7: são disponibilizadas evidências de implementação, como códigos e registros experimentais.
 
 ---
 
 ## 2. Descrição geral do produto/protótipo
-O SMEE é um protótipo IoT que coleta dados de tensão, corrente e potência, transmitindo-os via ESP32 e rede Wi-Fi para um servidor central. Os dados são processados em Node-RED, armazenados em InfluxDB e exibidos em dashboards Grafana, com possibilidade de relatórios e alertas configuráveis.
+A Tomada medidora de gastos é um protótipo IoT que coleta dados de tensão, corrente e potência, transmitindo-os via microcontrolador e wi-fi para um servidor central, que utilizando NodeJS, processa os dados, salvando-los em um banco de dados PostgreSQL
 
 ---
 
