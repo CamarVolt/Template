@@ -2,8 +2,7 @@
 
 ## Projeto:  
 #### **Tomada medidora de gastos**
-
-Versão 2.0                 
+               
 **Nome dos Integrantes da Equipe:** Gustavo Henrique, Ícaro Botelho, Maruan Biasi, Rafael Pereira, Ricardo Falção
 
 ---
@@ -15,6 +14,7 @@ Versão 2.0
 | Adequação Template    | Camargo      | 03/09/2025 | Ajustes e Inserção do Contexto   |
 | Entrega 1    | Equipe CamarVolt      | 10/09/2025 | Seção 1   |
 | Entrega 2    | Equipe CamarVolt      | 24/09/2025 | Seções 2, 3 e 4   |
+| Entrega 3    | Equipe CamarVolt      | 15/10/2025 | Correções e finalização do Template |
 
 ---
 
