@@ -1,9 +1,9 @@
-# Template CamarVolt
+# CamarVolt | Sistema de Monitoramento de Energia Elétrica (SMEE)
 
-## Projeto:  
-#### **Tomada medidora de gastos**
-               
-**Nome dos Integrantes da Equipe:** Gustavo Henrique, Ícaro Botelho, Maruan Biasi, Rafael Pereira, Ricardo Falção
+- **Projeto:** CamrVolt | SMEE Medidor de Gasto Elétrico
+- **Disciplina:** Engenharia de Software / IoT
+- **Docente:** Prof. Luís Camargo
+- **Nome dos Integrantes da Equipe:** Gustavo Henrique, Ícaro Botelho, Maruan Biasi, Rafael Pereira, Ricardo Falção
 
 ---
 
@@ -65,7 +65,7 @@ A missão do CamarVolt é proporcionar monitoramento acessível, confiável e em
 ---
 
 ## 2. Descrição geral do produto/protótipo
-A Tomada medidora de gastos é um protótipo IoT que coleta dados de tensão, corrente e potência, transmitindo-os via microcontrolador e wi-fi para um servidor central, que utilizando NodeJS, processa os dados, salvando-los em um banco de dados PostgreSQL
+A Tomada medidora de gastos SMEE é um sistema e produto IoT que coleta dados de tensão, corrente e potência, transmitindo-os via microcontrolador e wi-fi para um servidor central, que utilizando NodeJS, processa os dados, salvando-los em um banco de dados PostgreSQL e exibindo-os para o usuário final atravès de um website com dashboard.
 
 ---
 
@@ -107,7 +107,19 @@ O servidor deve tratar múltiplos dispositivos simultaneamente, sem perda ou des
 Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas energia fornecida pela tomada (no caso do aparelho).
 
 ## Diagrama de Caso de Uso
+<img width="761" height="361" alt="Caso de Uso" src="https://github.com/user-attachments/assets/2735e4df-f235-4d3e-8440-65c624b50d8f" />
 <img width="713" height="398" alt="image" src="https://github.com/user-attachments/assets/116a8f1d-dc50-41ac-923b-0eb87a112de9" />
+
+## Modelo C4 Geral
+<img width="512" height="1075" alt="Camarvolt (Current)" src="https://github.com/user-attachments/assets/a46672aa-19c6-49aa-bd03-dc938e83d3be" />
+
+## Modelo C4 do Aparelho SMEE
+<img width="512" height="1114" alt="Aparelho SMEE App Diagram (Current)" src="https://github.com/user-attachments/assets/e18a7778-7368-4789-bba6-9ba07408509a" />
+
+
+## Modelo C4 do Servidor WEB
+<img width="1392" height="1900" alt="Servidor WEB App Diagram (Current)" src="https://github.com/user-attachments/assets/cb3fb328-e336-4976-9dc0-0a88cac27134" />
+
 
 ---
 
