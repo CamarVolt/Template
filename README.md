@@ -3,7 +3,7 @@
 - **Projeto:** CamrVolt | SMEE Medidor de Gasto Elétrico
 - **Disciplina:** Engenharia de Software / IoT
 - **Docente:** Prof. Luís Camargo
-- **Nome dos Integrantes da Equipe:** Gustavo Henrique, Ícaro Botelho, Maruan Biasi, Rafael Pereira, Ricardo Falção
+- **Nome dos Integrantes da Equipe:** Gustavo Henrique, Ícaro Botelho, Maruan Biasi, Rafael Pereira, Ricardo Falcão Schlieper
 
 ---
 
