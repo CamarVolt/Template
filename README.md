@@ -217,6 +217,9 @@ Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas
 ## Mockup Interface Dashboard WEB
 <img width="3600" height="3126" alt="EnergyDashboard (1)" src="https://github.com/user-attachments/assets/6a68fc32-b648-46e9-aeb2-5e8312f2ded5" />
 
+## Mockup do Sensor em Funcionamento
+<img width="490" height="440" alt="image" src="https://github.com/user-attachments/assets/da087e92-5536-469d-9da0-abf4284cf77e" />
+
 ---
 
 ## 5. Artefatos do Produto/Protótipo
