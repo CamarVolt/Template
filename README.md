@@ -108,10 +108,9 @@ Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas
 
 ## Diagrama de Caso de Uso
 <img width="761" height="361" alt="Caso de Uso" src="https://github.com/user-attachments/assets/2735e4df-f235-4d3e-8440-65c624b50d8f" />
-<img width="713" height="398" alt="image" src="https://github.com/user-attachments/assets/116a8f1d-dc50-41ac-923b-0eb87a112de9" />
 
 ## Modelo C4 Geral
-<img width="512" height="1075" alt="Camarvolt (Current)" src="https://github.com/user-attachments/assets/a46672aa-19c6-49aa-bd03-dc938e83d3be" />
+<img width="3120" height="2620" alt="structurizr-container" src="https://github.com/user-attachments/assets/ea8cf6e5-6d30-4c46-bd7d-93697f5cbd2f" />
 
 ## Modelo C4 do Aparelho SMEE
 <img width="512" height="1114" alt="Aparelho SMEE App Diagram (Current)" src="https://github.com/user-attachments/assets/e18a7778-7368-4789-bba6-9ba07408509a" />
