@@ -210,7 +210,9 @@ Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas
 ## Diagrama de Atividade
 <img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/7e74f5e8-c826-4b04-9467-4f8cd3539ea7" />
 
+## Diagrama de Blocos IOT
 
+<img width="2874" height="586" alt="image" src="https://github.com/user-attachments/assets/aea3dc5c-2f01-4e0e-bf09-008a6842dbde" />
 
 ## Mockup Interface Dashboard WEB
 <img width="3600" height="3126" alt="EnergyDashboard (1)" src="https://github.com/user-attachments/assets/6a68fc32-b648-46e9-aeb2-5e8312f2ded5" />
