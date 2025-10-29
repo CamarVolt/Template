@@ -219,6 +219,8 @@ Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas
 
 ## Mockup do Sensor em Funcionamento
 <img width="490" height="440" alt="image" src="https://github.com/user-attachments/assets/da087e92-5536-469d-9da0-abf4284cf77e" />
+<img width="726" height="494" alt="image" src="https://github.com/user-attachments/assets/18b3ae8d-9f1d-487f-b7ec-28c8155f85c4" />
+
 
 ---
 
