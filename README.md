@@ -218,12 +218,18 @@ Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas
 
 ---
 
-## 6. Considerações Finais
+## 6. Inventário
+
+ 
+
+---
+
+## 7. Considerações Finais
 <cada estudante integrante da equipe publica na entrada projeto as suas considerações finais a respeito da execução deste Projeto, como: lições aprendidas, importância do projeto, dificuldades encontradas, conhecimentos adquiridos> 
 
 ---
 
-## 7. Apêndices (evidências de Implementação)
+## 8. Apêndices (evidências de Implementação)
 - Código Fonte do produto (link repositório remoto) ou trechos desse código  
 
 ---
