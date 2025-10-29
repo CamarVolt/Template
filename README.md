@@ -224,7 +224,53 @@ Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas
 
 ## 6. Inventário
 
- 
+ ## **Disponibilidade de Componentes de Hardware**
+
+A camada física do projeto **CamarVolt** encontra-se totalmente estruturada e com todos os componentes de hardware disponíveis para montagem e integração. Os itens foram cuidadosamente selecionados de acordo com as necessidades do sistema, contemplando sensores, atuadores, dispositivos de controle e elementos de proteção elétrica.
+
+Entre os principais componentes disponíveis destacam-se: o **microcontrolador ESP32 DevKit V1**, responsável pelo processamento central e comunicação Wi-Fi/Bluetooth; o **sensor de corrente não invasivo SCT-013**, utilizado para a medição de corrente alternada; além de **relés de 5V**, **transistores 2N2222**, e **resistores** e **capacitores** de diversas faixas de valores, empregados no condicionamento e filtragem de sinais.
+
+Complementam o conjunto **protoboards**, **fontes de alimentação ajustáveis MB-102**, **fusíveis de proteção**, **porta-fusíveis**, **LEDs indicadores** (verdes e vermelhos, comuns e de alto brilho), e **chaves tácteis e gangorras** para acionamento e controle manual.  
+
+Todos os componentes foram devidamente conferidos e encontram-se **em estado operacional**, permitindo a implementação integral do circuito proposto. A **aquisição dos recursos foi realizada pelos próprios acadêmicos**, garantindo autonomia no desenvolvimento e flexibilidade na montagem dos protótipos em bancada.
+
+Dessa forma, a camada física do CamarVolt está **completa e funcional**, possibilitando o prosseguimento das etapas de integração de hardware, testes de comunicação e validação das funcionalidades do sistema IoT.
+
+---
+
+## **Tabela de Componentes — CamarVolt**
+
+| Nº | Componente | Descrição | Quantidade |
+|----|-------------|------------|-------------|
+| 1 | Microcontrolador ESP32 DevKit V1 Wroom | CPU Wi-Fi/BLE do projeto (IoT). | 1 |
+| 2 | Sensor de Corrente Não Invasivo 100A SCT-013 | Medição de corrente AC por transformador de corrente. | 1 |
+| 3 | Cabo Rígido Preto 22 AWG (0,30mm) | Condutor rígido para ligações estruturadas em bancada. | 2 m |
+| 4 | Capacitor Cerâmico 100nF / 50V | Desacoplamento próximo a CIs e filtros RC. | 5 |
+| 5 | Capacitor Cerâmico 10nF / 50V | Filtragem de alta frequência e temporizações curtas. | 2 |
+| 6 | Capacitor Eletrolítico 10uF / 16V | Suavização de alimentação em baixa tensão. | 5 |
+| 7 | Capacitor Eletrolítico 10uF / 25V | Reserva de energia em linhas até 25V. | 2 |
+| 8 | Capacitor Eletrolítico 10uF / 35V | Filtragem em linhas de maior margem de tensão. | 2 |
+| 9 | Chave Gangorra KCD1-101 (2 Terminais) | Liga/Desliga geral do sistema em painel. | 1 |
+| 10 | Chave Táctil 6x6x4,3mm (2 Terminais) | Acionamento momentâneo compacto. | 1 |
+| 11 | Chave Táctil 6x6x5mm (4 Terminais) | Táctil estável em protoboard/PCB. | 1 |
+| 12 | Diodo 1N4007 | Retificação/roda-livre até 1000V/1A. | 3 |
+| 13 | Diodo 1N4148 | Comutação rápida e proteção de sinal. | 10 |
+| 14 | Fonte Ajustável Para Protoboard MB-102 | Alimentação 3,3/5V diretamente na MB-102. | 1 |
+| 15 | Fusível de Vidro 5x20 — 10A 250V | Proteção contra sobrecorrente. | 10 |
+| 16 | LED Difuso 5mm Verde | Indicação de status/energia. | 2 |
+| 17 | LED Difuso 5mm Vermelho | Indicação de alerta/falha. | 2 |
+| 18 | LED de alto brilho 5mm Verde | Alto brilho para visibilidade à distância. | 1 |
+| 19 | LED de alto brilho 5mm Vermelho | Alto brilho para avisos. | 1 |
+| 20 | Porta Fusível 5x20 — AS-06 | Suporte para fusível de vidro padrão 5x20. | 1 |
+| 21 | Protoboard 830 Pontos | Matriz de contatos para prototipagem sem solda. | 1 |
+| 22 | Relé 5V — 2 Posições — 250V 10A | Chaveamento de cargas AC/DC por controle lógico. | 1 |
+| 23 | Resistor 100R 5% (1/4W) | Limitador de corrente e divisores. | 2 |
+| 24 | Resistor 10K 5% (1/4W) | Pull-ups, divisores e filtros gerais. | 10 |
+| 25 | Resistor 220R 5% (1/4W) | Proteção de LEDs/entradas. | 2 |
+| 26 | Resistor 330R 5% (1/4W) | LEDs e ajustes de corrente. | 5 |
+| 27 | Resistor 33R 5% (1/4W) | Dampers/limitadores em linhas rápidas. | 10 |
+| 28 | Resistor 470R 5% (1/4W) | LEDs, interfaces e pequenas cargas. | 2 |
+| 29 | Transistor NPN 2N2222 | Acionamento de relé/pequenas cargas. | 2 |
 
 ---
 
