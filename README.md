@@ -207,6 +207,10 @@ Tanto o aparelho quanto o servidor devem operar continuamente, utilizando apenas
 
 ![hierarquia_requisitosFINAL](https://github.com/user-attachments/assets/1daf5d86-589a-4c8b-8f8a-65bbb0314e46)
 
+
+## Mockup Interface Dashboard WEB
+<img width="3600" height="3126" alt="EnergyDashboard (1)" src="https://github.com/user-attachments/assets/6a68fc32-b648-46e9-aeb2-5e8312f2ded5" />
+
 ---
 
 ## 5. Artefatos do Produto/Protótipo
