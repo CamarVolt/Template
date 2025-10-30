@@ -15,6 +15,7 @@
 | Entrega 1    | Equipe CamarVolt      | 10/09/2025 | Seção 1   |
 | Entrega 2    | Equipe CamarVolt      | 24/09/2025 | Seções 2, 3 e 4   |
 | Entrega 3    | Equipe CamarVolt      | 15/10/2025 | Correções e finalização do Template |
+| Entrega 4    | Equipe CamarVolt      | 29/10/2025 | Correções e adições ao Template |
 
 ---
 
